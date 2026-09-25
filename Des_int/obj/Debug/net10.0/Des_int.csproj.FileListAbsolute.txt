@@ -1,0 +1,15 @@
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/bin/Debug/net10.0/Des_int
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/bin/Debug/net10.0/Des_int.deps.json
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/bin/Debug/net10.0/Des_int.runtimeconfig.json
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/bin/Debug/net10.0/Des_int.dll
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/bin/Debug/net10.0/Des_int.pdb
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/obj/Debug/net10.0/Des_int.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/obj/Debug/net10.0/Des_int.AssemblyInfoInputs.cache
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/obj/Debug/net10.0/Des_int.AssemblyInfo.cs
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/obj/Debug/net10.0/Des_int.csproj.CoreCompileInputs.cache
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/obj/Debug/net10.0/Des_int.sourcelink.json
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/obj/Debug/net10.0/Des_int.dll
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/obj/Debug/net10.0/refint/Des_int.dll
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/obj/Debug/net10.0/Des_int.pdb
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/obj/Debug/net10.0/Des_int.genruntimeconfig.cache
+/workspaces/Desarrollo_Interfaces_dmc/Des_int/obj/Debug/net10.0/ref/Des_int.dll
