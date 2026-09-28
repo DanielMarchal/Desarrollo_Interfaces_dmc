@@ -1,0 +1,15 @@
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/bin/Debug/net10.0/tarea5
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/bin/Debug/net10.0/tarea5.deps.json
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/bin/Debug/net10.0/tarea5.runtimeconfig.json
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/bin/Debug/net10.0/tarea5.dll
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/bin/Debug/net10.0/tarea5.pdb
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/obj/Debug/net10.0/tarea5.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/obj/Debug/net10.0/tarea5.AssemblyInfoInputs.cache
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/obj/Debug/net10.0/tarea5.AssemblyInfo.cs
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/obj/Debug/net10.0/tarea5.csproj.CoreCompileInputs.cache
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/obj/Debug/net10.0/tarea5.sourcelink.json
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/obj/Debug/net10.0/tarea5.dll
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/obj/Debug/net10.0/refint/tarea5.dll
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/obj/Debug/net10.0/tarea5.pdb
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/obj/Debug/net10.0/tarea5.genruntimeconfig.cache
+/workspaces/Desarrollo_Interfaces_dmc/tarea5/obj/Debug/net10.0/ref/tarea5.dll
