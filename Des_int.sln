@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea8", "tarea8\tarea8.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea9", "tarea9\tarea9.csproj", "{A87B75C3-DEFB-44FD-9660-C5BE12F59EBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea10", "tarea10\tarea10.csproj", "{32479585-8D6A-4BCE-8A60-A16D3718E1A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,18 @@ Global
 		{A87B75C3-DEFB-44FD-9660-C5BE12F59EBC}.Release|x64.Build.0 = Release|Any CPU
 		{A87B75C3-DEFB-44FD-9660-C5BE12F59EBC}.Release|x86.ActiveCfg = Release|Any CPU
 		{A87B75C3-DEFB-44FD-9660-C5BE12F59EBC}.Release|x86.Build.0 = Release|Any CPU
+		{32479585-8D6A-4BCE-8A60-A16D3718E1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32479585-8D6A-4BCE-8A60-A16D3718E1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32479585-8D6A-4BCE-8A60-A16D3718E1A8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{32479585-8D6A-4BCE-8A60-A16D3718E1A8}.Debug|x64.Build.0 = Debug|Any CPU
+		{32479585-8D6A-4BCE-8A60-A16D3718E1A8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{32479585-8D6A-4BCE-8A60-A16D3718E1A8}.Debug|x86.Build.0 = Debug|Any CPU
+		{32479585-8D6A-4BCE-8A60-A16D3718E1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32479585-8D6A-4BCE-8A60-A16D3718E1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32479585-8D6A-4BCE-8A60-A16D3718E1A8}.Release|x64.ActiveCfg = Release|Any CPU
+		{32479585-8D6A-4BCE-8A60-A16D3718E1A8}.Release|x64.Build.0 = Release|Any CPU
+		{32479585-8D6A-4BCE-8A60-A16D3718E1A8}.Release|x86.ActiveCfg = Release|Any CPU
+		{32479585-8D6A-4BCE-8A60-A16D3718E1A8}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
