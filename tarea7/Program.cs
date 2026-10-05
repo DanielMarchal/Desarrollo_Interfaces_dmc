@@ -6,16 +6,11 @@ class Program
     {
         Console.WriteLine("Dame un numero");
         int num;
-        while(!int.TryParse(Console.ReadLine(), out num) )
-        {
-            Console.WriteLine("Numero incorrecto, introduce otro: ");
-        }
+        num = Convert.ToInt32(Console.ReadLine() );
         Console.WriteLine("Dame otro numero");
         int num2;
-        while(!int.TryParse(Console.ReadLine(), out num2) )
-        {
-            Console.WriteLine("Numero incorrecto, introduce otro: ");
-        }
+        num2 = Convert.ToInt32(Console.ReadLine() );
+
         Console.WriteLine("Division: " + num/num2);
         Console.WriteLine("Resto: " + num % num2);
 
